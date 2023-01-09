@@ -1,0 +1,7 @@
+#!/bin/bash
+<<<<<<< HEAD
+printf '%x\n' 
+printf '%x\n' 
+=======
+printf '%x\n' $DECIMAL
+>>>>>>> 9c0b71b3be1530424eee282bb833e8dd499e3e31
